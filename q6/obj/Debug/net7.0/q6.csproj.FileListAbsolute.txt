@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\bin\Debug\net7.0\q6.exe
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\bin\Debug\net7.0\q6.deps.json
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\bin\Debug\net7.0\q6.runtimeconfig.json
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\bin\Debug\net7.0\q6.dll
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\bin\Debug\net7.0\q6.pdb
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\q6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\q6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\q6.AssemblyInfo.cs
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\q6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\q6.dll
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\refint\q6.dll
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\q6.pdb
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\q6.genruntimeconfig.cache
+C:\Users\User\Desktop\תכנות\C#\HomeWork\Ex.3\Ex.3\q6\obj\Debug\net7.0\ref\q6.dll
